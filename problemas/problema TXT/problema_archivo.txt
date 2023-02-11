@@ -1,0 +1,14 @@
+Los datos son: 
+
+Name: David, Lastname: Tabares
+---------------
+Name: Luis, Lastname: Tabares
+---------------
+Name: Maria, Lastname: Seguro
+---------------
+Name: Ana, Lastname: Giraldo
+---------------
+Name: Dulce, Lastname: Tabares
+---------------
+Name: Andy, Lastname: Seguro
+---------------

@@ -1,0 +1,5 @@
+Linea de texto creadas desde un programa de python
+Buenas
+Tardes
+Buenas
+Noches
